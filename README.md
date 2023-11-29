@@ -1,7 +1,7 @@
 # BOILERPLATE 
 
-Basic boilerplate for an react app bundled with vite.
-Including route and login structures with private routes.
+Basic boilerplate for an react app bundled with vite. </br>
+Including route and login structures with private routes. </br>
 Intended usage with gRPC-web.
 
 ## Commands
